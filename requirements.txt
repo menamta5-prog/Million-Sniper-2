@@ -1,0 +1,6 @@
+python-telegram-bot==20.8
+google-genai
+psycopg2-binary
+requests
+pydantic
+python-dotenv
